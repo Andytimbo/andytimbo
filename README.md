@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is Andrew, this is a github student account I've created in order to help me learn how to mod games like Victoria 3, on which I'm currently contributing to the mod "Basileia Romaion 1736". While I'm confident in my skills as a writer, I hope to grow in my abilities as a coder as well through this so that I can continue to become better at implementing my ideas.
 
 <!--
 **Andytimbo/andytimbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
